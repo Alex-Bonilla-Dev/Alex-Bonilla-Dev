@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hello, I'm Alex Bonilla
 
-<!--
-**Alex-Bonilla-Dev/Alex-Bonilla-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer from Málaga, Spain, passionate about crafting high-quality software for real-world problems.
 
-Here are some ideas to get you started:
+- 🔭 Currently working with **Javascript**, **PHP**, **Java**
+- 🌱 Currently learning **.NET**, **C**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alex-bonilla-mart%C3%ADn-59438a370/) • [Email](alexbonillatrabajo@gmail.com)
+- 🌐 Portfolio: working.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Featured Projects
+| Project | Description |
+|--------|-------------|
+| **Awesome Project** |  |
+| **API Toolkit** | REST API i |
+
+### 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
